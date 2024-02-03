@@ -7,7 +7,9 @@ module.exports = {
   ],
   theme: {
     fontFamily:{
-      gloria: ['Gloria Hallelujah', 'sans'],
+      gloria:['Gloria Hallelujah', 'sans-serif'],
+      inter: ['Inter', 'sans-serif'],
+      Comic: ['Comic Sans MS', 'sans-serif'],
     },
     extend: {
       backgroundImage: {

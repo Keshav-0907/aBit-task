@@ -7,14 +7,14 @@ export default function Hero() {
         <div>
             <div className="w-full h-[60vh] overflow-hidden">
                 <img
-                    src="/HeroImg.png"
+                    src="https://res.cloudinary.com/dmutgbmtd/image/upload/v1706996988/heroImg_jzl3gt.png"
                     alt="Hero Image"
                     className="w-full h-fit object-cover"
                     style={{ objectPosition: 'center top', marginTop: '-180px' }}
                 />
             </div>
-            <div className="font-gloriah-20 bg-[#292828] overflow-hidden flex items-center py-5">
-                <div className="text-white text-xl" style={{ whiteSpace: 'nowrap' }}>
+            <div className=" bg-[#292828] overflow-hidden flex items-center py-5">
+                <div className="text-white text-xl font-Comic" style={{ whiteSpace: 'nowrap'}}>
                     n Bill / Creator / Moved to NYC / 27.11.22 / Live now/John Bill / Creator / Moved to NYC / 27.11.22 / Live now / John Bill / Creator / Moved to NYC / 27.11.22 / Live now
                 </div>
             </div>

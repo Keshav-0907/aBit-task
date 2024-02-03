@@ -6,7 +6,7 @@ import Mobile from "./components/Mobile";
 export default function Home() {
   return (
     <>
-      <main>
+      <main className="font-inter">
         <div className="hidden lg:block">
           <Header />
           <Hero />
